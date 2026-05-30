@@ -26,7 +26,8 @@
 <p align="left">I'm Arsema from Ethiopia 🇪🇹.<br><br>* 🎓 Computer Science Student<br>* 🛡️ Cybersecurity & Web Penetration Testing Enthusiast<br>* 📚 Currently learning Linux, Networking, OSINT, Ethical Hacking, and Web Security<br>* 🌱 Practicing Web Penetration Testing and Security Research<br>* ⚡ Always eager to learn new technologies and improve my skills</p>
 
 ###
-<h3>📧 Email: mailto:arsemaseble29@gmail.com</h3>
+<h4>📧 <a href="mailto:arsemaseble29@gmail.com">arsemaseble29@gmail.com</a></h4>
+<h4>📸 <a href="https://www.instagram.com/noir_chocolate_/" target="_blank">noir_chocolate_</a></h4>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
